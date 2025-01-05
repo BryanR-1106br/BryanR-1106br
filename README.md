@@ -7,8 +7,9 @@
 
 - Spotify Clone es un proyecto estático que simula la apariencia y el diseño de la famosa plataforma de música Spotify. Este clon no tiene funcionalidades interactivas ni acceso a música real, ya que su objetivo principal es replicar la interfaz de usuario de Spotify. [Clone de Spotify](https://spotify-clone-nine-self.vercel.app/)
 
-<h3 align="left">Conéctate conmigo:</h3> 
+<h3 align="left">Conéctate conmigo</h3> 
 -Soy. [Bryan R](https://rosero-dev.vercel.app/)
+- Spotify Clone es un proyecto estático que simula la apariencia y el diseño de la famosa plataforma de música Spotify. Este clon no tiene funcionalidades interactivas ni acceso a música real, ya que su objetivo principal es replicar la interfaz de usuario de Spotify. [Clone de Spotify](https://spotify-clone-nine-self.vercel.app/)
 
 
 
